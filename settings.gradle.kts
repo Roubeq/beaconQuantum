@@ -21,3 +21,9 @@ dependencyResolutionManagement {
 
 rootProject.name = "beaconQuantum"
 include(":app")
+include(":core")
+include(":feature:home")
+include(":feature:groups")
+include(":feature:practice")
+include(":feature:chats")
+include(":feature:profile")
